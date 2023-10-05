@@ -1,0 +1,165 @@
+/* body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+    background-color: #f0f0f0;
+}
+
+header {
+    background-color: #333;
+    color: #fff;
+    text-align: center;
+    padding: 20px 0;
+}
+
+h1 {
+    margin: 0;
+}
+
+main {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    align-items: center;
+    margin: 20px;
+}
+
+.box {
+    width: 200px;
+    height: 200px;
+    background-color: #0074d9;
+    color: #fff;
+    text-align: center;
+    line-height: 200px;
+    margin: 10px;
+    transition: transform 0.2s ease-in-out;
+}
+
+.box:hover {
+    transform: scale(1.1);
+}
+
+a {
+    text-decoration: none;
+    color: #fff;
+}
+
+You can add more styles and customize as needed */
+/* Add or modify styles as needed */
+
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+    background-color: #f0f0f0;
+}
+
+header {
+    background-color: #333;
+    color: #fff;
+    text-align: center;
+    padding: 20px 0;
+}
+
+h1 {
+    margin: 0;
+}
+
+h2 {
+    font-size: 24px;
+    color: #0074d9;
+}
+
+a {
+    text-decoration: none;
+    color: #0074d9;
+    transition: color 0.3s ease-in-out;
+}
+
+a:hover {
+    color: #0056b3;
+    text-decoration: underline;
+}
+
+main {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    margin: 20px;
+}
+
+.intro {
+    text-align: center;
+    margin-bottom: 30px;
+}
+
+.boxes {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    align-items: flex-start;
+    margin-bottom: 30px;
+}
+
+.box {
+    width: 200px;
+    height: 200px;
+    background-color: #0074d9;
+    color: #fff;
+    text-align: center;
+    line-height: 200px;
+    margin: 10px;
+    transition: transform 0.2s ease-in-out;
+}
+
+.box:hover {
+    transform: scale(1.1);
+}
+
+.box a {
+    text-decoration: none;
+    color: #fff;
+}
+
+.education,
+.extra-coursework {
+    background-color: #fff;
+    border: 1px solid #ccc;
+    padding: 20px;
+    margin: 10px;
+    width: 80%;
+    max-width: 600px;
+    box-shadow: 0px 0px 5px rgba(0, 0, 0, 0.2);
+}
+
+.education p,
+.extra-coursework ul {
+    margin: 10px 0;
+    font-size: 18px;
+}
+
+/* You can further customize the styles to suit your design preferences */
+/* Add or modify styles as needed */
+
+footer {
+    background-color: #333;
+    color: #fff;
+    text-align: center;
+    padding: 20px 0;
+}
+
+.social-icons {
+    font-size: 24px;
+    margin-top: 10px;
+}
+
+.social-icons a {
+    color: #fff;
+    text-decoration: none;
+    margin: 0 10px;
+    transition: color 0.3s ease-in-out;
+}
+
+.social-icons a:hover {
+    color: #0074d9;
+}
